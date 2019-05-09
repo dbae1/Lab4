@@ -1,0 +1,68 @@
+.box {
+	background-color: black;
+		
+}
+
+.umbc {
+	color : yellow;
+	font-size: 60px;
+}
+
+.other{
+	padding-top: 10px;
+	color: yellow; 
+	font-size: 48px;
+	float: right;
+	text-align: right;
+	
+}
+
+.title{
+	background-color: #ff6666;
+	padding: 10px;
+	font-size: 36px;
+	margin-right: 50%;
+	overflow: auto;
+}
+
+.picture{
+	float:right;
+	text-align: right;
+	background-color:#808080;
+	font-size: 36px;
+	width:20%;
+}
+
+.side{
+	text-align: left;
+	background-color:#808080;
+	width: 20%;
+	float: left;
+	
+}
+
+.otherpicture{
+	font-size: 24px;
+	background-color: #cccccc;
+	padding-right: 15%;
+	float: left;
+	width:25%;
+	padding-bottom:5%;
+}
+
+.label{
+	float:right;
+	text-align: right;
+	background-color:#808080;
+	padding-bottom: 5%;
+}
+
+.shrink{
+	font-size: 12px;
+}
+
+.content{
+	clear:left;
+	background-color: #ff6666;
+	padding-bottom: 20%
+}
